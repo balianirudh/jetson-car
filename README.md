@@ -12,3 +12,5 @@ I have used what I learned from this project thus far to implement similar strat
 robotics projects. The objective of the Jetson car was to learn how to implement an LQR
 controller for path following on a ground robot. By doing so, I would better understand LQR
 control and how to implement them in other applications.
+
+<p align="center"><img src="https://github.com/balianirudh/jetson-car/blob/main/images/render1.png" width="400" height="300"/> <img src="https://github.com/balianirudh/jetson-car/blob/main/images/fullAssembly1.jpg" width="400" height="300"/></p>
